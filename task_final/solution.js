@@ -41,7 +41,8 @@ function sendRequest(name, phone, address, goods, sum) {
             sum: sum},
         goods: [
             {title: ,count:}
-        ], 
+        ],
+    }; 
         
 
     let countOfGoods = goods.length;
